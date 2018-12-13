@@ -12,7 +12,10 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        var number = 10;
+        number -= 10
+        var div = 100/number
         // Do any additional setup after loading the view.
     }
 
